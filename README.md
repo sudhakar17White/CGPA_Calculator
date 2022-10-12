@@ -1,6 +1,10 @@
 # CGPA_Calculator
 This calculator for calculate college cgpa grade mark
 
+# How TO Clone 
+ 
+      git clone https://github.com/sudhakar17White/CGPA_Calculator       
+   
 
 # Prerequisites
    --> Before starting with this tutorial we assume that you are best aware of the following Java programming topics:
